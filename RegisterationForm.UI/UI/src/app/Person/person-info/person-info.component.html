@@ -1,0 +1,26 @@
+<table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>Hobby</th>
+        <th>Skills</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of service.allPerson">
+        <td>{{user.username}}</td>
+        <td>{{user.email}}</td>
+        <td>{{user.phone}}</td>
+        <td>{{user.hobby}}</td>
+        <td>{{user.skills}}</td>
+        <td>
+            <i class="far fa-trash-alt fa-lg text-danger" style="cursor:pointer" (click)="deletePerson(user.id)"></i>
+            &nbsp;
+            <i class="far fa-edit fa-lg text-info" style="cursor:pointer" (click)="showPerson(user)"></i>
+        </td>
+      </tr>
+    </tbody>
+  </table>

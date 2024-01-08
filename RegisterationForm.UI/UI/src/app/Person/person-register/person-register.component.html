@@ -1,0 +1,42 @@
+<form novalidate autocomplete="off" #form="ngForm" (submit)="submitPerson(form)"> 
+    <div class="row">
+        <div class="row">
+            <input type="hidden" name="id" [value]="service.person.id">
+            <div class="mb-3 col-sm-6 text-left">
+                <label for="name" class="form-label fw-bold">Name:</label>
+                <input type="text" class="form-control" id="name" placeholder="Enter Name" name="name" #name="ngModel" [(ngModel)]="service.person.username"
+                required minlength="3" maxlength="10" [class.invalid]="name.invalid &#038;&#038; name.touched">
+            </div>
+            <div class="mb-3 col-sm-6 text-left">
+                <label for="email" class="form-label fw-bold">Email:</label>
+                <input type="text" class="form-control" id="email" placeholder="Enter email" name="email" #name="ngModel" [(ngModel)]="service.person.email"
+                required minlength="10" maxlength="30" [class.invalid]="name.invalid &#038;&#038; name.touched">
+            </div>
+            <div class="mb-3 col-sm-6 text-left">
+                <label for="phone" class="form-label fw-bold">Phone:</label>
+                <input type="text" class="form-control" id="phone" placeholder="Enter phone" name="phone" #name="ngModel" [(ngModel)]="service.person.phone"
+                required minlength="10" maxlength="10" [class.invalid]="name.invalid &#038;&#038; name.touched">
+            </div>
+
+            <div class="mb-3 col-sm-6 text-left">
+                <label for="hobby" class="form-label fw-bold">Hobby:</label>
+                <input type="text" class="form-control" id="phone" placeholder="Enter Hobby" name="Hobby" #name="ngModel" [(ngModel)]="service.person.hobby"
+                required minlength="3" maxlength="50" [class.invalid]="name.invalid &#038;&#038; name.touched">
+            </div>
+
+
+            <div class="mb-3 col-sm-12 text-left">
+                <label for="status" class="form-label fw-bold">Skills:</label>
+                <br>
+                <div class="form-check form-check-inline" *ngFor="let personality of SkillSevice.allSkill">
+                    <input class="form-check-input" type="checkbox"  [value]=""  required  (change)="onChange(personality.id,$any($event.target)?.checked)" id="chb{{personality.id}}">
+                    <label class="form-check-label" for="inlineRadio1">{{personality.title}}</label>
+                </div>
+            </div>
+            <div class="mb-3 col-sm-12 text-center">
+                <button type="submit" class="btn btn-primary btn-block" [disabled]="form.invalid">Submit</button>
+            </div>
+        </div>
+    </div>
+
+</form>
