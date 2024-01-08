@@ -52,3 +52,15 @@ we have 5 methods in *UserController* and 1 method in *Skillsontroller*.
 > UI layer has implemented with two Service Components.
 - person-service.service.ts resonsible to get the response from the 'http://localhost:5003/api/User'
 - skill-service.service.ts resonsible to get the response from the 'http://localhost:5003/api/Skill'
+
+## UI Layer Screenshot
+![image](https://github.com/saikiran6581/FreelancerCDNWebAPI/assets/16414353/8c840ec7-a38a-416e-a57d-78cfe6ecefb3)
+
+## SwaggerUI UI API's Screenshot
+![image](https://github.com/saikiran6581/FreelancerCDNWebAPI/assets/16414353/9abce5e0-0761-4176-9d5e-d0c8d7874ec5)
+
+## SwaggerUI UI API's Response Screenshot
+![image](https://github.com/saikiran6581/FreelancerCDNWebAPI/assets/16414353/a819f049-7c22-476d-ab5c-d178779e717e)
+
+
+
