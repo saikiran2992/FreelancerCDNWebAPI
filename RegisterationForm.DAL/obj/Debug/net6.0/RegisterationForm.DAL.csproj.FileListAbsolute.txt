@@ -1,0 +1,38 @@
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.DAL.deps.json
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.DAL.runtimeconfig.json
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.DAL.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.DAL.pdb
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.Domain.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.Infrastructure.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.Domain.pdb
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.Infrastructure.pdb
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.csproj.AssemblyReference.cache
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.AssemblyInfoInputs.cache
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.AssemblyInfo.cs
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.csproj.CoreCompileInputs.cache
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.csproj.CopyComplete
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\refint\RegisterationForm.DAL.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.pdb
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.genruntimeconfig.cache
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\ref\RegisterationForm.DAL.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.DAL.deps.json
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.DAL.runtimeconfig.json
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.DAL.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.DAL.pdb
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.Domain.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.Infrastructure.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.Domain.pdb
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\bin\Debug\net6.0\RegisterationForm.Infrastructure.pdb
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.csproj.AssemblyReference.cache
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.AssemblyInfoInputs.cache
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.AssemblyInfo.cs
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.csproj.CoreCompileInputs.cache
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.csproj.CopyComplete
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\refint\RegisterationForm.DAL.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.pdb
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\RegisterationForm.DAL.genruntimeconfig.cache
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.DAL\obj\Debug\net6.0\ref\RegisterationForm.DAL.dll
