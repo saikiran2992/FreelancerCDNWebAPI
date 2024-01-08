@@ -9,6 +9,7 @@
 - EntityFrameworkCore
 - SQL SERVER 2019
 - Swagger & SwaggerUI
+- Angular 15
 
 ## Project Architecture details
 - a class library with the name *Domain* for our models, Request dto and Response dto
@@ -23,6 +24,8 @@
 
 - a web api .net core to implement our apis
 
+- a UI project for the user presentation.
+
 ## Develop Domain Layer
 > We have 3 tables:
   - *User* is the table that keeps Users data.
@@ -36,3 +39,16 @@ we have 5 methods in *UserController* and 1 method in *Skillsontroller*.
   - `[HttpPost]`: use it when the method is going to get some data from input and save it in the database.
   - `[HttpPut]`: use it when the method is going to get some data and update an already saved data.
   - `[HttpDelete]`: use it when the method is going to delete some data from the database.
+
+## UI Layer
+> UI layer implemnted with the Angular framework.
+> On Src/app/app.component.html is the first page to render.
+> There are two components available in the html page.
+  - person-register
+  - peson-info
+> UI layer has implemented with two models.
+- User
+- Skill
+> UI layer has implemented with two Service Components.
+- person-service.service.ts resonsible to get the response from the 'http://localhost:5003/api/User'
+- skill-service.service.ts resonsible to get the response from the 'http://localhost:5003/api/Skill'
