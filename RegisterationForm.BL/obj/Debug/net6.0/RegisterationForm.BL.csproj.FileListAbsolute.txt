@@ -1,0 +1,34 @@
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\bin\Debug\net6.0\RegisterationForm.BL.deps.json
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\bin\Debug\net6.0\RegisterationForm.BL.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\bin\Debug\net6.0\RegisterationForm.BL.pdb
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\bin\Debug\net6.0\RegisterationForm.Domain.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\bin\Debug\net6.0\RegisterationForm.Infrastructure.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\bin\Debug\net6.0\RegisterationForm.Infrastructure.pdb
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\bin\Debug\net6.0\RegisterationForm.Domain.pdb
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.csproj.AssemblyReference.cache
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.AssemblyInfoInputs.cache
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.AssemblyInfo.cs
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.csproj.CoreCompileInputs.cache
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.csproj.CopyComplete
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\refint\RegisterationForm.BL.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.pdb
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\ref\RegisterationForm.BL.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\bin\Debug\net6.0\RegisterationForm.BL.deps.json
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\bin\Debug\net6.0\RegisterationForm.BL.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\bin\Debug\net6.0\RegisterationForm.BL.pdb
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\bin\Debug\net6.0\RegisterationForm.Domain.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\bin\Debug\net6.0\RegisterationForm.Infrastructure.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\bin\Debug\net6.0\RegisterationForm.Infrastructure.pdb
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\bin\Debug\net6.0\RegisterationForm.Domain.pdb
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.csproj.AssemblyReference.cache
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.AssemblyInfoInputs.cache
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.AssemblyInfo.cs
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.csproj.CoreCompileInputs.cache
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.csproj.CopyComplete
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\refint\RegisterationForm.BL.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\RegisterationForm.BL.pdb
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.BL\obj\Debug\net6.0\ref\RegisterationForm.BL.dll
