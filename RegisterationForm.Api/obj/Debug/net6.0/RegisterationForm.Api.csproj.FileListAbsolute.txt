@@ -1,0 +1,166 @@
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\appsettings.json
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Api.exe
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Api.deps.json
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Api.runtimeconfig.json
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Api.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Api.pdb
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Humanizer.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.BL.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.DAL.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Domain.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Infrastructure.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.IoC.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.DAL.pdb
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.IoC.pdb
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.BL.pdb
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Domain.pdb
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Infrastructure.pdb
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.csproj.AssemblyReference.cache
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.AssemblyInfoInputs.cache
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.AssemblyInfo.cs
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.csproj.CoreCompileInputs.cache
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\staticwebassets\msbuild.RegisterationForm.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.RegisterationForm.Api.props
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RegisterationForm.Api.props
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RegisterationForm.Api.props
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\scopedcss\bundle\RegisterationForm.Api.styles.css
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.csproj.CopyComplete
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\refint\RegisterationForm.Api.dll
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.pdb
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.genruntimeconfig.cache
+D:\SaiWorkspace\RegisterationForm-master\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\ref\RegisterationForm.Api.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\appsettings.json
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Api.exe
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Api.deps.json
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Api.runtimeconfig.json
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Api.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Api.pdb
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Humanizer.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.BL.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.DAL.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Domain.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Infrastructure.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.IoC.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.DAL.pdb
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.IoC.pdb
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.BL.pdb
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Domain.pdb
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\bin\Debug\net6.0\RegisterationForm.Infrastructure.pdb
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.csproj.AssemblyReference.cache
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.AssemblyInfoInputs.cache
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.AssemblyInfo.cs
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.csproj.CoreCompileInputs.cache
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\staticwebassets\msbuild.RegisterationForm.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.RegisterationForm.Api.props
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RegisterationForm.Api.props
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RegisterationForm.Api.props
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\scopedcss\bundle\RegisterationForm.Api.styles.css
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.csproj.CopyComplete
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\refint\RegisterationForm.Api.dll
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.pdb
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\RegisterationForm.Api.genruntimeconfig.cache
+D:\SaiWorkspace\RegisterationForm-master - Copy\RegisterationForm-master\RegisterationForm.Api\obj\Debug\net6.0\ref\RegisterationForm.Api.dll
